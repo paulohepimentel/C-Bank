@@ -28,14 +28,16 @@ O algoritmo é simples, de fácil manutenção, eficiente e bastante versátil. 
 <p align="justify">
 As operações criadas foram cinco, sendo elas:
 </p>
+
 1. Visualização dos dados da conta;
 2. Saque;
 3. Depósito;
 4. Transferência financeira;
 5. Exclusão da conta.
 
+<br>
 <p align="center">
-    <img alt="Operações" title="operações" src="images/C-Bank.gif" width="45%" />
+    <img alt="Operações" title="operações" src="images/C-Bank.gif" width="60%" />
 </p>
 
 ---
