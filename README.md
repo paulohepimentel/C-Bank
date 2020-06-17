@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="#projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#motivação">Motivação</a>
+  <a href="#-motivação">Motivação</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#operações-implementadas">Operações implementadas</a>
+  <a href="#-operações-implementadas">Operações implementadas</a>
 </p>
 
 ## ✦ Projeto
