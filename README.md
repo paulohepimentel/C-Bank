@@ -15,6 +15,10 @@
 
 <p align="justify">O C-Bank é um sistema bancário básico, onde é possível a realização das operações padrões de um caixa eletrônico convencional, operações essas que foram todas desenvolvidas tendo como base a estrutura e os códigos disponíveis na bibliografia da disciplina referentes a <a href="http://www2.dcc.ufmg.br/livros/algoritmos/index.php">árvore B</a>.</p>
 
+<p align="center">
+    <img alt="Arvore" title="BTree" src="images/BTree.jpeg" width="60%" />
+</p>
+
 ## ✦ Motivação
 <p align="justify">A escolha da estrutura arvore B não foi aleatória, essa foi feita levando-se em conta as suas propriedades. É uma estrutura balanceada que foi projetada para trabalhar com pesquisa em memória externa, essa que é utilizada em praticamente todo sistema convencional uma vez que a memória primaria não é capaz de armazenar uma dada quantidade de registros.</p>
 
